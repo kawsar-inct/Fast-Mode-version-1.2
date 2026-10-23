@@ -1,0 +1,6 @@
+{
+  "name": "FastMode - Internet Speed Test, Latency & DNS Benchmark",
+  "description": "Ultra-accurate internet speed test, real-time ping/jitter bufferbloat analysis, DNS benchmark, network diagnostics, and optimization toolkit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
