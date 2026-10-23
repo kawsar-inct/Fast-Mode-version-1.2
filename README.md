@@ -4,7 +4,7 @@ Fast Mode is a free, modern, and lightweight **Internet Speed Test** and **DNS B
 
 Unlike traditional speed test websites, Fast Mode runs entirely in the browser with a clean, responsive interface and requires no extensions or software installation.
 
-🌐 **Live Website:** https://www.fastmode.top
+🌐 **Live Website:** https://fastmode2.netlify.app
 
 ---
 
